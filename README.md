@@ -1,2 +1,2 @@
 # MUNDO ROL
-Página de inicio de un programa asistente para Directores y Máster de juegos de rol
+Página de inicio de un programa asistente para Usuarios de juegos de rol
